@@ -10,7 +10,7 @@ cidrs       = {
   rds2     = "10.0.6.0/24"
   rds3     = "10.0.7.0/24"
 }
-localip    = "34.226.247.245/32" #check it after restart
+localip    = "54.147.0.140/32" #check it after restart
 domain_name= "kurshum"
 
 db_instance_class	= "db.t2.micro"
